@@ -1,14 +1,14 @@
 /* styles.css */
 
 body {
-    color: indianred;
-    background-color: antiquewhite;
+    color: rgb(131, 51, 51);
+    background-color: rgb(247, 237, 224);
     text-align: center;
 }
 html {
     background-color: aliceblue;
 }
-li { 
+li, .more { 
     background-color: rgb(228, 169, 113);
     padding: 15px;
     margin-left: 400px;
@@ -24,4 +24,9 @@ img {
     border-style: solid;
     border-radius: 30px;
     border-color: aliceblue;
+}
+
+a {
+    font-size: large;
+    color: aliceblue;
 }
