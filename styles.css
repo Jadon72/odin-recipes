@@ -1,0 +1,27 @@
+/* styles.css */
+
+body {
+    color: indianred;
+    background-color: antiquewhite;
+    text-align: center;
+}
+html {
+    background-color: aliceblue;
+}
+li { 
+    background-color: rgb(228, 169, 113);
+    padding: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: aliceblue;
+}
+
+img {
+    background-color: aliceblue;
+    padding: 15px;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: aliceblue;
+}
